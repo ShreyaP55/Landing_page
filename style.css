@@ -14,7 +14,7 @@ html,body{
     position:relative;
 }
 .nav{
-    height: 100px;
+    height: 150px;
     width: 100%;
     background-color: brown;
     display: flex;
